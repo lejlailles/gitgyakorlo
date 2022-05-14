@@ -6,6 +6,7 @@ public class JavaApplication21 {
     public static void main(String[] args) {
      int ezegyvaltozo;
      int masodikvaltozo;
+     int harmadikvaltozo;
     }
     
 }
